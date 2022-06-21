@@ -1,2 +1,2 @@
-# Dango-models
-This repository aims to go deeper into models in django
+# Dango-CRUD
+This repository aims to go deeper into Django by treating the concepts of CRUD
